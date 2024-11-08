@@ -1,5 +1,5 @@
-const live2d_path = "https://cdn.jsdelivr.net/gh/Country-If/live2d-cdn@v6/"
-const modelTextures = "https://cdn.jsdelivr.net/gh/Country-If/live2d-cdn@v6/model/xiaomai/umaru2048/texture_00.png"
+const live2d_path = "https://cdn.jsdelivr.net/gh/Country-If/live2d-cdn@v7/"
+const modelTextures = "https://jsd.onmicrosoft.cn/gh/wuuconix/live2d-cdn@v0.1.8/model/xiaomai/umaru2048/texture_00.png"
 
 
 // 封装异步加载资源的方法
@@ -41,7 +41,7 @@ if (screen.width >= 768) {
 				waifuPath: live2d_path + "waifu-tips.json",
 				cdnPath: live2d_path,
 				// tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
-				tools: ["hitokoto", "switch-model", "photo", "quit"]
+				tools: ["photo", "quit"]
 			});
 		});
 	});
