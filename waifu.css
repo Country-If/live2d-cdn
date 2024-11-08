@@ -10,7 +10,7 @@
 	padding: 15px 50px 15px 5px;
 	position: fixed;
 	transition: margin-right 1s;
-	width: 70px;
+	width: 75px;
 	writing-mode: vertical-rl;
 }
 
@@ -19,7 +19,7 @@
 }
 
 #waifu-toggle.waifu-toggle-active:hover {
-	margin-right: -30px;
+	margin-right: -35px;
 }
 
 #waifu {
