@@ -1,5 +1,3 @@
-// const live2d_path = "https://jsd.onmicrosoft.cn/gh/wuuconix/live2d-cdn@v0.1.8/";
-// const modelTextures = "https://jsd.onmicrosoft.cn/gh/wuuconix/live2d-cdn@v0.1.8/model/xiaomai/umaru2048/texture_00.png";
 const live2d_path = "https://cdn.jsdelivr.net/gh/Country-If/live2d-cdn@v1/"
 const modelTextures = "https://cdn.jsdelivr.net/gh/Country-If/live2d-cdn@v1/model/xiaomai/umaru2048/texture_00.png"
 

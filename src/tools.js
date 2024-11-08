@@ -58,7 +58,7 @@ const tools = {
 	"info": {
 		icon: fa_info_circle,
 		callback: () => {
-			open("https://github.com/wuuconix/live2d-cdn");
+			open("https://github.com/Country-If/live2d-cdn");
 		}
 	},
 	"quit": {
