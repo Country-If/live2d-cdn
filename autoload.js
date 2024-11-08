@@ -40,7 +40,7 @@ if (screen.width >= 768) {
 			initWidget({
 				waifuPath: live2d_path + "waifu-tips.json",
 				cdnPath: live2d_path,
-				tools: ["hitokoto", "asteroids", "photo", "info", "quit"]
+				tools: ["hitokoto", "photo", "quit"]
 			});
 		});
 	});
